@@ -2,7 +2,7 @@
 
 #### Installition
 
-This Plugin build with `Less`, you can compliate `imhover.less` or
+This Plugin is builded with `Less`, you can compliate `imhover.less` or
 
     <link rel="stylesheet" type="text/css" href="./imhover.css"/>
     
@@ -20,7 +20,7 @@ This Plugin build with `Less`, you can compliate `imhover.less` or
         </div>
     </div>
     
-More Example to see `index.html`
+More Examples can seen in `index.html`
 
 #### Thanks
 1. Somebody
