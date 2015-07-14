@@ -1,0 +1,455 @@
+.imhover-2 {
+    width: 100%;
+    margin-bottom: 2px;
+    overflow: hidden;
+    position: relative;
+}
+
+.imhover-2 img {
+    width: 100%;
+    display: block;
+}
+
+.imhover-2 .mask {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    overflow: hidden;
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+    -webkit-transition: all 200ms linear;
+    -moz-transition: all 200ms linear;
+    -o-transition: all 200ms linear;
+    transition: all 200ms linear;
+}
+
+.imhover-2 .animation-fade {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.imhover-2:hover .animation-fade,
+.imhover-2:active .animation-fade {
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+}
+
+.imhover-2 .animation-float {
+    bottom: -100% !important;
+}
+
+.imhover-2:hover .animation-float,
+.imhover-2:active .animation-float {
+    bottom: 0 !important;
+}
+
+.imhover-3 {
+    width: 100%;
+    margin-bottom: 2px;
+    overflow: hidden;
+    position: relative;
+}
+
+.imhover-3 img {
+    width: 100%;
+    display: block;
+}
+
+.imhover-3 .mask {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 30%;
+    text-align: center;
+    overflow: hidden;
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+    -webkit-transition: all 200ms linear;
+    -moz-transition: all 200ms linear;
+    -o-transition: all 200ms linear;
+    transition: all 200ms linear;
+}
+
+.imhover-3 .animation-fade {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.imhover-3:hover .animation-fade,
+.imhover-3:active .animation-fade {
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+}
+
+.imhover-3 .animation-float {
+    bottom: -90% !important;
+}
+
+.imhover-3:hover .animation-float,
+.imhover-3:active .animation-float {
+    bottom: 0 !important;
+}
+
+.imhover-4 {
+    width: 100%;
+    margin-bottom: 2px;
+    overflow: hidden;
+    position: relative;
+}
+
+.imhover-4 img {
+    width: 100%;
+    display: block;
+}
+
+.imhover-4 .mask {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 40%;
+    text-align: center;
+    overflow: hidden;
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+    -webkit-transition: all 200ms linear;
+    -moz-transition: all 200ms linear;
+    -o-transition: all 200ms linear;
+    transition: all 200ms linear;
+}
+
+.imhover-4 .animation-fade {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.imhover-4:hover .animation-fade,
+.imhover-4:active .animation-fade {
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+}
+
+.imhover-4 .animation-float {
+    bottom: -80% !important;
+}
+
+.imhover-4:hover .animation-float,
+.imhover-4:active .animation-float {
+    bottom: 0 !important;
+}
+
+.imhover-5 {
+    width: 100%;
+    margin-bottom: 2px;
+    overflow: hidden;
+    position: relative;
+}
+
+.imhover-5 img {
+    width: 100%;
+    display: block;
+}
+
+.imhover-5 .mask {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    overflow: hidden;
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+    -webkit-transition: all 200ms linear;
+    -moz-transition: all 200ms linear;
+    -o-transition: all 200ms linear;
+    transition: all 200ms linear;
+}
+
+.imhover-5 .animation-fade {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.imhover-5:hover .animation-fade,
+.imhover-5:active .animation-fade {
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+}
+
+.imhover-5 .animation-float {
+    bottom: -70% !important;
+}
+
+.imhover-5:hover .animation-float,
+.imhover-5:active .animation-float {
+    bottom: 0 !important;
+}
+
+.imhover-6 {
+    width: 100%;
+    margin-bottom: 2px;
+    overflow: hidden;
+    position: relative;
+}
+
+.imhover-6 img {
+    width: 100%;
+    display: block;
+}
+
+.imhover-6 .mask {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 60%;
+    text-align: center;
+    overflow: hidden;
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+    -webkit-transition: all 200ms linear;
+    -moz-transition: all 200ms linear;
+    -o-transition: all 200ms linear;
+    transition: all 200ms linear;
+}
+
+.imhover-6 .animation-fade {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.imhover-6:hover .animation-fade,
+.imhover-6:active .animation-fade {
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+}
+
+.imhover-6 .animation-float {
+    bottom: -60% !important;
+}
+
+.imhover-6:hover .animation-float,
+.imhover-6:active .animation-float {
+    bottom: 0 !important;
+}
+
+.imhover-7 {
+    width: 100%;
+    margin-bottom: 2px;
+    overflow: hidden;
+    position: relative;
+}
+
+.imhover-7 img {
+    width: 100%;
+    display: block;
+}
+
+.imhover-7 .mask {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 70%;
+    text-align: center;
+    overflow: hidden;
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+    -webkit-transition: all 200ms linear;
+    -moz-transition: all 200ms linear;
+    -o-transition: all 200ms linear;
+    transition: all 200ms linear;
+}
+
+.imhover-7 .animation-fade {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.imhover-7:hover .animation-fade,
+.imhover-7:active .animation-fade {
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+}
+
+.imhover-7 .animation-float {
+    bottom: -50% !important;
+}
+
+.imhover-7:hover .animation-float,
+.imhover-7:active .animation-float {
+    bottom: 0 !important;
+}
+
+.imhover-8 {
+    width: 100%;
+    margin-bottom: 2px;
+    overflow: hidden;
+    position: relative;
+}
+
+.imhover-8 img {
+    width: 100%;
+    display: block;
+}
+
+.imhover-8 .mask {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 80%;
+    text-align: center;
+    overflow: hidden;
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+    -webkit-transition: all 200ms linear;
+    -moz-transition: all 200ms linear;
+    -o-transition: all 200ms linear;
+    transition: all 200ms linear;
+}
+
+.imhover-8 .animation-fade {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.imhover-8:hover .animation-fade,
+.imhover-8:active .animation-fade {
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+}
+
+.imhover-8 .animation-float {
+    bottom: -40% !important;
+}
+
+.imhover-8:hover .animation-float,
+.imhover-8:active .animation-float {
+    bottom: 0 !important;
+}
+
+.imhover-9 {
+    width: 100%;
+    margin-bottom: 2px;
+    overflow: hidden;
+    position: relative;
+}
+
+.imhover-9 img {
+    width: 100%;
+    display: block;
+}
+
+.imhover-9 .mask {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 90%;
+    text-align: center;
+    overflow: hidden;
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+    -webkit-transition: all 200ms linear;
+    -moz-transition: all 200ms linear;
+    -o-transition: all 200ms linear;
+    transition: all 200ms linear;
+}
+
+.imhover-9 .animation-fade {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.imhover-9:hover .animation-fade,
+.imhover-9:active .animation-fade {
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+}
+
+.imhover-9 .animation-float {
+    bottom: -30% !important;
+}
+
+.imhover-9:hover .animation-float,
+.imhover-9:active .animation-float {
+    bottom: 0 !important;
+}
+
+.imhover-10 {
+    width: 100%;
+    margin-bottom: 2px;
+    overflow: hidden;
+    position: relative;
+}
+
+.imhover-10 img {
+    width: 100%;
+    display: block;
+}
+
+.imhover-10 .mask {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    overflow: hidden;
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+    -webkit-transition: all 200ms linear;
+    -moz-transition: all 200ms linear;
+    -o-transition: all 200ms linear;
+    transition: all 200ms linear;
+}
+
+.imhover-10 .animation-fade {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.imhover-10:hover .animation-fade,
+.imhover-10:active .animation-fade {
+    opacity: 0.8;
+    filter: alpha(opacity=8);
+}
+
+.imhover-10 .animation-float {
+    bottom: -20% !important;
+}
+
+.imhover-10:hover .animation-float,
+.imhover-10:active .animation-float {
+    bottom: 0 !important;
+}
+
+.imhover .mask-color-1 {
+    background: #cf6fc1;
+}
+
+.imhover .mask-color-2 {
+    background: #6db4c4;
+}
+
+.imhover .mask-color-3 {
+    background: #c55050;
+}
+
+.imhover .mask-color-4 {
+    background: #262626;
+}
+
+.imhover .mask-color-5 {
+    background: #ed8826;
+}
+
+.imhover .mask-color-6 {
+    background: #32efae;
+}
